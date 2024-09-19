@@ -1,0 +1,2942 @@
+[
+  {
+    "id": "abrigo-100",
+    "titulo": "Black",
+    "imagen": "../../img/portadas/black.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/JSvgsEsJ1Vg?si=65l5NRO0MKw9Mh3D",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-101",
+    "titulo": "Crash Team Racing",
+    "imagen": "../../img/portadas/57.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/r6DvJI1ktvU?si=-SoMZaRmwXft4wjN",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-102",
+    "titulo": "Grand Theft Auto San Andreas",
+    "imagen": "../../img/portadas/gtasa.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/ZO2YOqZ9v_E?si=yUdcFyeZbTIrkwt4",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-103",
+    "titulo": "Resident Evil 3",
+    "imagen": "../../img/portadas/47.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/gK-ZhZPgl7s?si=aJZbG9ZvmnRugXIF",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-104",
+    "titulo": "Grand Theft Auto 3",
+    "imagen": "../../img/portadas/gta3.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/9WhZWySjgfc?si=1EYeI38NeyQjzWx5",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-105",
+    "titulo": "Nascar Rumble",
+    "imagen": "../../img/portadas/NascarRumble.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/wuMZoOskcD4?si=gwYwaOpW8hy5RlT-",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-106",
+    "titulo": "Need for Speed Most Wanted",
+    "imagen": "../../img/portadas/nfsmw.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/ZaMTlfhW7Xg?si=867o3Q9LqW9hebBs",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-107",
+    "titulo": "007 Goldeneye",
+    "imagen": "../../img/portadas/goldeneye.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=4asD8IBxUsM",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-108",
+    "titulo": "Need for Speed Underground",
+    "imagen": "../../img/portadas/nfsu.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/Yrl3GURLPlQ?si=4lgSM2p2QX97y8kC",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-109",
+    "titulo": "Super Mario 64",
+    "imagen": "../../img/portadas/mario64.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/vT3AaQ77ges?si=l7_MtWzjFcK3mXrH",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-110",
+    "titulo": "Need for Speed Underground 2",
+    "imagen": "../../img/portadas/nfsu2.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=0XNX4UXcr1g",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-111",
+    "titulo": "Driver 2",
+    "imagen": "../../img/portadas/59.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/xCSwtp_7TJ8?si=-A_8tylS-tHkuGW4",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-112",
+    "titulo": "Resident Evil 4",
+    "imagen": "../../img/portadas/residentevil4.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/mZI81Yfc-5E?si=kWnPKWDkCO5hClRo",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-113",
+    "titulo": "Vigilante 8",
+    "imagen": "../../img/portadas/Vigilante8.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/23-aYZtsKk8?si=_k_clxG-T9rE2l4q",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-114",
+    "titulo": "Spiderman Ultimate",
+    "imagen": "../../img/portadas/spidermanultimate.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/szTY-uaLHTA?si=bgXbvehZstiV0QHS",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-115",
+    "titulo": "Pepsiman",
+    "imagen": "../../img/portadas/132.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/JQdetlwdjrE?si=PFD-4r-gzYat_hOM",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-116",
+    "titulo": "God of War 1",
+    "imagen": "../../img/portadas/gow1.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/oXjkfhIakG8?si=dmLLpOwSdOcGQLFp",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-117",
+    "titulo": "King Of Fighters 97",
+    "imagen": "../../img/portadas/KOF97.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/WgjW-KHLN0w?si=HGIdCK-zwi3c7jt6",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-118",
+    "titulo": "Dragon ball z budokai tenkaichi 3",
+    "imagen": "../../img/portadas/dbz.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/VOc7HPtelpc?si=pWcYOH-juV1U14MA",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-119",
+    "titulo": "Crash Bandicoot",
+    "imagen": "../../img/portadas/032.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/IGfuTvUISrA?si=MZsdDp6pXHmTaZJG",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-120",
+    "titulo": "Def Jam Fight NY",
+    "imagen": "../../img/portadas/DJFNY.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/FRu20rAJPSQ?si=YCBgpZu2mYIgQ3Ff",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-121",
+    "titulo": "Samurai Shodown",
+    "imagen": "../../img/portadas/Samurai.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/Cjf26BqrJ80?si=qMsjcaySKOPQajUx",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-122",
+    "titulo": "Darkwatch",
+    "imagen": "../../img/portadas/darkwatch.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/rKFrB8T4WaM?si=7skfmLh-FitJoZDR",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-123",
+    "titulo": "Pokemon",
+    "imagen": "../../img/portadas/pokemon.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/bQGewoJti_g?si=yiJJKQO3vwQG892G",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-124",
+    "titulo": "Crazy Taxi",
+    "imagen": "../../img/portadas/crazy-taxi.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/bEGe3XtbzeI?si=ixhGZibLBxqV_Ubz",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-125",
+    "titulo": "Mario Kart",
+    "imagen": "../../img/portadas/mario kart.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/rG7wddEt8W0?si=gtGp6LuD59h42iXj",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-126",
+    "titulo": "Conflict Vietnam",
+    "imagen": "../../img/portadas/conflictvietnam.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/iCd_hW-_Xd8?si=UhFiIAelEZ2ESIKA",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-127",
+    "titulo": "Medal of Honor Underground",
+    "imagen": "../../img/portadas/42.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/wMyDHgSJCH0?si=aEx9lq291bEZMlDb",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-128",
+    "titulo": "Burnout 3 takedown",
+    "imagen": "../../img/portadas/burnout-3-takedown.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/etFuNUSrgXw?si=p0CuFd1YfYrEgGZD",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-129",
+    "titulo": "Winning Eleven 2002",
+    "imagen": "../../img/portadas/WinningEleven2002.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/KTByTTUqfD4?si=5OQz73asV9Jzhkm7",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-130",
+    "titulo": "Dragon ball z budokai tenkaichi 2",
+    "imagen": "../../img/portadas/dragon-ball-z-budokai-tenkaichi-2.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/6KvjLdAGIgA?si=mDxQY7CUijSIlSiK",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-131",
+    "titulo": "Yu-Gi-Oh",
+    "imagen": "../../img/portadas/yugioh.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/JVS8VTlBGrY?si=rsNOTcUm2ajMZ1xK",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-132",
+    "titulo": "Dragon ball z budokai tenkaichi",
+    "imagen": "../../img/portadas/dragon-ball-z-budokai-tenkaichi.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/_LWL5oitCrU?si=gRRyCJi0ALZII-kA",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-133",
+    "titulo": "Mortal Kombat 4",
+    "imagen": "../../img/portadas/MortalKombat4.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/s0iyE5dw87o?si=6x3EprDqeEFNiKWX",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-134",
+    "titulo": "Driver 3",
+    "imagen": "../../img/portadas/driv3r.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/MLpqhEQ78LY?si=Bq3mm5MpnTlhqjPZ",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-135",
+    "titulo": "Jackie Chan Stuntmaster",
+    "imagen": "../../img/portadas/41.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/1M8cgtQUgYs?si=B1QB17kgCLjPG66k",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-136",
+    "titulo": "Freedom Fighters",
+    "imagen": "../../img/portadas/freedomfighters.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=HUmVcrOiDrk",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-137",
+    "titulo": "Silent Hill",
+    "imagen": "../../img/portadas/49.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/4l7-8KzY0mg?si=zH_hrLTg5EFaVSdW",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-138",
+    "titulo": "Ghost Recon AW",
+    "imagen": "../../img/portadas/GhostReconAW.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/qO7YDmGcX2M?si=mT8tk3r3uGOY3ht1",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-139",
+    "titulo": "Spider-Man",
+    "imagen": "../../img/portadas/50.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/PodoJuXfsfA?si=5rgPvriOVh6aZidT",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-140",
+    "titulo": "God of War 2",
+    "imagen": "../../img/portadas/gow2.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/obsNtQtOwwE?si=JBhN1U3TtsQRChkt",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-141",
+    "titulo": "Coyote Sheep Raider",
+    "imagen": "../../img/portadas/coyote.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/dse7uLyQNHA?si=TPirrjtpVxpTG38i",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-142",
+    "titulo": "Gran Turismo 4",
+    "imagen": "../../img/portadas/gt4.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/BYhNvLHzgjw?si=0FCHSUrj1dkF2hdm",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-143",
+    "titulo": "Gran Turismo 2",
+    "imagen": "../../img/portadas/GT2.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/e87QdtXSY1Q?si=_kEmFEtPYvfnbd34",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-144",
+    "titulo": "Grand Theft Auto Vice City",
+    "imagen": "../../img/portadas/gtavc.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/9Sp10v7uTmM?si=LQuKUMHeUjfDIMzD",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-145",
+    "titulo": "Need for Speed High Stakes",
+    "imagen": "../../img/portadas/nfshs.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/SHB4GWsh79o?si=Ln4CRPudsR7DzkHc",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-146",
+    "titulo": "Grand Theft Auto Liberty City Stories",
+    "imagen": "../../img/portadas/gtalcs.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/qNV_qvziJhU?si=mNFF2Ia-z3WkooKc",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-147",
+    "titulo": "Metal Slug X",
+    "imagen": "../../img/portadas/43.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/QG-1pAbRXnk?si=GizJU6pPzpGw5fuH",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-148",
+    "titulo": "Grand Theft Auto Vice City Stories",
+    "imagen": "../../img/portadas/gtavcs.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/r_QpSvjKars?si=dsopd9trJjhwFVnW",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-149",
+    "titulo": "Driver 1",
+    "imagen": "../../img/portadas/58.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/2b8p2IqQGYc?si=XkF-HOxwjeBJk-9m",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-150",
+    "titulo": "The King of Fighters 2002",
+    "imagen": "../../img/portadas/kof2002.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/YNfD5ndPSjs?si=SUT1J6yM9vaCLlhw",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-151",
+    "titulo": "Soul Reaver",
+    "imagen": "../../img/portadas/soulreaver.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/7yBabXTDXz8?si=VRVC8VT0ziJk0coj",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-152",
+    "titulo": "Mafia",
+    "imagen": "../../img/portadas/mafia.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/lT_BoQiwUKo?si=rbWXTZ0yv-0NXeOi",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-153",
+    "titulo": "Bugs Bunny y Taz",
+    "imagen": "../../img/portadas/55.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/PApGMc_RiFs?si=EQGcLDBGwTuFtLtF",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-154",
+    "titulo": "Metal Gear Solid 2 sons of liberty",
+    "imagen": "../../img/portadas/metal-gear-solid-2-sons-of-liberty.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/tvt0hqnJwqI?si=z9MMjKdmVjfAws3K",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-155",
+    "titulo": "Bloody Roar 2",
+    "imagen": "../../img/portadas/BloodyRoar2.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/l21YfA2qzzg?si=CT2iH07EbokQcVu9",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-156",
+    "titulo": "Need for Speed Carbon",
+    "imagen": "../../img/portadas/nfsc.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/QLtNZp5OzwA?si=fpHjZvom6WvbyBCN",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-157",
+    "titulo": "Road Rash Jailbreak",
+    "imagen": "../../img/portadas/48.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/SWztdgF94CU?si=p4B7FaS8ucu5u1gk",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-158",
+    "titulo": "Need for Speed Pro Street",
+    "imagen": "../../img/portadas/nfsprostreet.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/1P4sO_vrw5w?si=umy8_8NpwV6eOeBO",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-159",
+    "titulo": "Tekken 3",
+    "imagen": "../../img/portadas/Tekken3.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/HoG9jmXMdW0?si=diACmRzlX5y7peX6",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-160",
+    "titulo": "Need for Speed Undercover",
+    "imagen": "../../img/portadas/nfsundercover.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/zdtxCQq8JJc?si=RpblS2pth9chP7vg",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-161",
+    "titulo": "Dino Crisis 2",
+    "imagen": "../../img/portadas/dinocrisis2.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/MnJumLFojJo?si=IfZrraSvT7FH-xDe",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-162",
+    "titulo": "PES 2014",
+    "imagen": "../../img/portadas/PES2014.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/elngvtg6OI4?si=1eDYkMMv2lCMKXib",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-163",
+    "titulo": "Test Drive 6",
+    "imagen": "../../img/portadas/TestDrive6.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/8OraJeqwCpA?si=1pylFKa3CpGtz3i7",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-164",
+    "titulo": "Return to the Castle Wolfenstein",
+    "imagen": "../../img/portadas/return.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/eJ6_jRCt07A?si=95OZjpnumVIwHbQU",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-165",
+    "titulo": "Syphon Filter",
+    "imagen": "../../img/portadas/51.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/ugtuBj9mn6o?si=JZhlYw0oYw9btbIn",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-166",
+    "titulo": "Silent Hill 2",
+    "imagen": "../../img/portadas/silenthill2.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/JZZqNAdQAk0?si=Bmf5QCyL4gOCegXu",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-167",
+    "titulo": "Harry Potter y la Camara de los Secretos",
+    "imagen": "../../img/portadas/40.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/2xGabwbSGTY?si=OG_xm6_G32atGtBW",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-168",
+    "titulo": "Simpsons Hit and Run",
+    "imagen": "../../img/portadas/SimpsonsHR.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/1n2shCnSXsU?si=3hf7P5VPcFXAtNUE",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-169",
+    "titulo": "Metal Gear ",
+    "imagen": "../../img/portadas/MetalGear.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/_IeL1L5IbfA?si=QgY1P2rAUaoWX_Y0",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-170",
+    "titulo": "Tekken 5",
+    "imagen": "../../img/portadas/Tekken5.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/KzETkpUSNiY?si=QMssxmJSIZ2SSa1C",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-171",
+    "titulo": "CART World Series",
+    "imagen": "../../img/portadas/cart.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/EhOE98LrwP8?si=0HEEXmsrENTzAbpw",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-172",
+    "titulo": "True Crime NY",
+    "imagen": "../../img/portadas/TrueCrimeNY.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/Cnmk0qBWWmc?si=1HrepyexgqwvI6Tz",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-173",
+    "titulo": "Resident Evil 2",
+    "imagen": "../../img/portadas/46.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/qV4lnLvB6O4?si=eq9Yvbo7Kh2cQHnp",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-174",
+    "titulo": "True Crime LA",
+    "imagen": "../../img/portadas/TrueCrimeLA.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/b2wBNiQ2hWc?si=buTGfe6zb6iO0Qy5",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-175",
+    "titulo": "Formula 1 2001",
+    "imagen": "../../img/portadas/Formula12001.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/l9ethAEl03U?si=E3eHNR48EX1SBY3F",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-176",
+    "titulo": "18 wheeler american",
+    "imagen": "../../img/portadas/18-wheeler-american-pro-trucker.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/EvMlXhn7I-c?si=T_kjvCbzlEw8t67K",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-177",
+    "titulo": "V-Rally 2 Championship",
+    "imagen": "../../img/portadas/vrally2.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/d3-bsM6j5JU?si=K0Z4ouluwwT6jqZs",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-178",
+    "titulo": "187 ride or ride",
+    "imagen": "../../img/portadas/187-ride-or-ride.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/eiR9pOi7auo?si=V5t4v9VugrGUzloH",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-179",
+    "titulo": "Eagle One Harrier Attack",
+    "imagen": "../../img/portadas/EagleOne.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/mhuvelVfyKQ?si=UwRcLDdlkwqx7tQG",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-180",
+    "titulo": "Ace combat 5",
+    "imagen": "../../img/portadas/ace-combat-5.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/ST-7G8EfM8E?si=djkb6hU0DNI7Ss78",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-181",
+    "titulo": "Pokemon Stadium",
+    "imagen": "../../img/portadas/pokemonstadium.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/h0LG37pwgzs?si=-3LMn8byMO_Uyx7r",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-182",
+    "titulo": "Airborne troops countdown to d day",
+    "imagen": "../../img/portadas/airborne-troops-countdown-to-d-day.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/_iNfbB-ALjo?si=WCEkQNiSVgHDOXmA",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-183",
+    "titulo": "Destruction Derby",
+    "imagen": "../../img/portadas/DestructionDerby.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/l4mDHNuXHgQ?si=Y65rfcl5CZB5i4RP",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-184",
+    "titulo": "Bad boys miami takedown",
+    "imagen": "../../img/portadas/bad-boys-miami-takedown.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/yj7u8SU0zRw?si=f1b-q_6y-uNQBoh4",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-185",
+    "titulo": "Twisted Metal 4",
+    "imagen": "../../img/portadas/TwistedMetal4.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/9Jx9fVQcU5A?si=CRlV0N3RW08O1r7_",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-186",
+    "titulo": "Batman begins",
+    "imagen": "../../img/portadas/batman-begins.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/UpYHXB1dQsY?si=Oeb8Fe3oOPUZEvO7",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-187",
+    "titulo": "Police Chases",
+    "imagen": "../../img/portadas/PoliceChases.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/9l6n_gk9e7k?si=nUL6cOxPmqzW8dOI",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-188",
+    "titulo": "Super Bikes",
+    "imagen": "../../img/portadas/bikes.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/1K7GSVyKfSw?si=mIesYlMrAxZ552KT",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-189",
+    "titulo": "Digimon",
+    "imagen": "../../img/portadas/Digimon.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/rQJ3aB6_ZFE?si=_T4wE8uTkDdYt8YL",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-190",
+    "titulo": "Blade 2",
+    "imagen": "../../img/portadas/blade2.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/g6ppKASivb4?si=Yt31KIFd38kllPKu",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-191",
+    "titulo": "Gran Turismo",
+    "imagen": "../../img/portadas/GT.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/XqlFs3s2JNM?si=MMNHwc-fg90a0fZC",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-192",
+    "titulo": "Burnout 2 point of impact",
+    "imagen": "../../img/portadas/burnout-2-point-of-impact.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/e-XhCOQ5-Bs?si=ImKGrfNc6xs4ujlX",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-193",
+    "titulo": "Star Wars Jedi",
+    "imagen": "../../img/portadas/Jedi.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/bkDH0OMUw2o?si=L7M10te778gq0Ijq",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-194",
+    "titulo": "Burnout",
+    "imagen": "../../img/portadas/burnout-ps2.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/1igpRJ_wTNo?si=Q33eOR5nLeuZ2lrj",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-195",
+    "titulo": "Mortal Kombat Trilogy",
+    "imagen": "../../img/portadas/112.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/JBY63fGBCBI?si=RWRbx50CEXSuwTNl",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-196",
+    "titulo": "Call of duty 3",
+    "imagen": "../../img/portadas/call-of-duty-3.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/rIeykDMEA8Q?si=tTF-uv9cLpyCTfcQ",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-197",
+    "titulo": "Spyro 2",
+    "imagen": "../../img/portadas/Spyro2.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/kAC6TCnLjDE?si=XEy-01UzwczHQzaN",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-198",
+    "titulo": "Cars",
+    "imagen": "../../img/portadas/cars.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/jOT-kfbMHoY?si=ccFAQH7Fct0jZ1AL",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-199",
+    "titulo": "Toy Story 2",
+    "imagen": "../../img/portadas/toystory.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=oYctKYlpfJY",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-200",
+    "titulo": "Cold Fear",
+    "imagen": "../../img/portadas/ColdFear.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/fAYppddSyuU?si=sn33lGsSawlxRhdP",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-201",
+    "titulo": "Spiderman 2",
+    "imagen": "../../img/portadas/spiderman2.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/T6sNZTLgjXU?si=OFk8hx-JGRmWHQ6a",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-202",
+    "titulo": "Constantine",
+    "imagen": "../../img/portadas/constantine.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/r5PDWyHl8mw?si=q3kvu5fUf_eFgyNQ",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-203",
+    "titulo": "Spec Ops Cover Assault",
+    "imagen": "../../img/portadas/specopsca.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/FhO9te3JUuo?si=NNdczlylayOjhY9I",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-204",
+    "titulo": "Driver parallel lines",
+    "imagen": "../../img/portadas/driver-parallel-lines.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/rS6YHp5zfiY?si=tp2PvCw7Zr4tmh_2",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-205",
+    "titulo": "Rayman 2",
+    "imagen": "../../img/portadas/Rayman2.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/kOMVkfgRhSI?si=kE3JJrpRvBWGTUjM",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-206",
+    "titulo": "Fifa 14",
+    "imagen": "../../img/portadas/Fifa14.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/IxrEOS2c_fA?si=txCEBAQCsq9Xt3uq",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-207",
+    "titulo": "Soccer pro 98",
+    "imagen": "../../img/portadas/pro98.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/J0N_wpbR8GQ?si=zDUoJuWvzX2lEW_O",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-208",
+    "titulo": "Gran Turismo 3",
+    "imagen": "../../img/portadas/gran-turismo-3-a-spec.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/IjXRRZKyZ54?si=GTbXV_TKik46ylhF",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-209",
+    "titulo": "Duke Nukem",
+    "imagen": "../../img/portadas/DukeNuke.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/Mad1B5soP5M?si=KhVbZ_Sx4BCdbP--",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-210",
+    "titulo": "Guitar Hero metallica",
+    "imagen": "../../img/portadas/guitar-hero-metallica.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/TSuOTPNiOns?si=m6t2eGAqYxEfgK9r",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-211",
+    "titulo": "Guerra de Marranos",
+    "imagen": "../../img/portadas/Marranos.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/_9lkBaQJLYI?si=HC3y0P9hh2Wj9d48",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-212",
+    "titulo": "Guitar Hero world tour",
+    "imagen": "../../img/portadas/guitar-hero-world-tour.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/Rr9k-v8z5WI?si=no8WcZ3Cs_51aS-2",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-213",
+    "titulo": "Harry Potter y la Piedra Filosofal",
+    "imagen": "../../img/portadas/60.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/niA7Y3WRMNI?si=C2hRTqoWrZxpjAt9",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-214",
+    "titulo": "Harry Potter y la orden del fenix",
+    "imagen": "../../img/portadas/harry-potter-y-la-orden-del-fenix.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/tC1C7Lz8Q3E?si=O7uXAgdO6GeV5rYa",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-215",
+    "titulo": "Parasite Eve 2",
+    "imagen": "../../img/portadas/ParasiteEve2.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/6MrSzDiaf2g?si=75SiV17qaDMdBhbm",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-216",
+    "titulo": "Hitman contracts",
+    "imagen": "../../img/portadas/hitman-contracts.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/tBTU9GiVbaE?si=Xi4OeetnpsZLPZie",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-217",
+    "titulo": "Mision Imposible",
+    "imagen": "../../img/portadas/MisionImposible.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/jewCpD8vyzA?si=XZSBtsmt7j4LPyK9",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-218",
+    "titulo": "Hitman 2 Silent Assassin",
+    "imagen": "../../img/portadas/Hitman2SA.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/Gm4g4GlMnKw?si=G4onSWDff1g6N4yE",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-219",
+    "titulo": "Alone in the dark",
+    "imagen": "../../img/portadas/AloneInTheDark.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/3n3MRxq4e7U?si=4lq_gbMUns_Zya_j",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-220",
+    "titulo": "Indiana Jones and the emperors tomb",
+    "imagen": "../../img/portadas/indiana-jones-and-the-emperors-tomb.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/uX524XXrms8?si=oc7JclLUWmBtd52J",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-221",
+    "titulo": "Army Men TA",
+    "imagen": "../../img/portadas/ArmyMenTA.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/eIBoK1yJCrk?si=5dFQjTW5AsOhDbvs",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-222",
+    "titulo": "Lord of the Rings the return of the king",
+    "imagen": "../../img/portadas/lord-of-the-rings-the-return-of-the-king.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/4iI6uT_0Dhw?si=Yf65ax5Df9pKMuGU",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-223",
+    "titulo": "Tarzan",
+    "imagen": "../../img/portadas/Tarzan.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/6eVjCUg6gvQ?si=h57fNAHOHaEMme62",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-224",
+    "titulo": "Los Increibles",
+    "imagen": "../../img/portadas/los-increibles.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/fBMta_suIBQ?si=Ud0uj-OUXbMW8AO7",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-225",
+    "titulo": "Hercules",
+    "imagen": "../../img/portadas/Hercules.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/H-tK7v9LquQ?si=kV_vZcaJODm04k9b",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-226",
+    "titulo": "Max payne 2",
+    "imagen": "../../img/portadas/max-payne-2.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/AZX3iJV5UHE?si=rCAanUkEqNQ5LVpw",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-227",
+    "titulo": "Dragon Ball GT",
+    "imagen": "../../img/portadas/DragonBallGT.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/HXF5ZF7PeoM?si=t8PrRGsI1Pq1RPmX",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-228",
+    "titulo": "Medal of honor european assault",
+    "imagen": "../../img/portadas/medal-of-honor-european-assault.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/piTgb_4t5-k?si=CWm4VdunJpWBW-Ub",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-229",
+    "titulo": "Vigilante 8 2nd Off",
+    "imagen": "../../img/portadas/Vigilante82.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/G1n8oNYcSm8?si=vhGd6kUZphGYZgi7",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-230",
+    "titulo": "Medal of honor frontline",
+    "imagen": "../../img/portadas/medal-of-honor-frontline.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/fXGC-rpAYqg?si=obnPyE0caQhlIUcC",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-231",
+    "titulo": "Ace Combat 3",
+    "imagen": "../../img/portadas/AceCombat3.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/27Gz2aX9ZxI?si=DQZ7_V7wYvAd67vx",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-232",
+    "titulo": "Medal of honor rising sun",
+    "imagen": "../../img/portadas/medal-of-honor-rising-sun.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/RpKQXZBnDVk?si=Hi-aqzQRM2pTtQbl",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-233",
+    "titulo": "Need for Speed Porsche",
+    "imagen": "../../img/portadas/45.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/uRSrJX-_Rr4?si=BYMnyBmuaN6pnoY9",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-234",
+    "titulo": "Medal of honor vanguard",
+    "imagen": "../../img/portadas/medal-of-honor-vanguard.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/oiQtTEwP8zo?si=JywdKs_0Cm_w2FZn",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-235",
+    "titulo": "BMX",
+    "imagen": "../../img/portadas/BMX.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/h-ZDVR6xgHw?si=jqARlEVNsowLwU4K",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-236",
+    "titulo": "Midnight Club 3",
+    "imagen": "../../img/portadas/MidnightClub3.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/BOmgTAYvb70?si=wJLYsk4NT5SgvuA5",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-237",
+    "titulo": "Los Simpsons",
+    "imagen": "../../img/portadas/LosSimsonpPelea.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/fkanuXsjGb0?si=VWUZm9xRDv4pd1_P",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-238",
+    "titulo": "Mortal Kombat Deception",
+    "imagen": "../../img/portadas/mortalkombatdeception.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/1-J88ROhAhs?si=--fxU1IdTebdCF6V",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-239",
+    "titulo": "TOCA",
+    "imagen": "../../img/portadas/TOCA.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/AoPvKQ1PLfw?si=9G0zCP1fvZb78DoT",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-240",
+    "titulo": "Naruto",
+    "imagen": "../../img/portadas/naruto.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/jpXhFjFpvNk?si=JDjj5LMdslF56Fbl",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-241",
+    "titulo": "PES 2002",
+    "imagen": "../../img/portadas/PES2002.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/KTByTTUqfD4?si=5OQz73asV9Jzhkm7",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-242",
+    "titulo": "Nascar 2007",
+    "imagen": "../../img/portadas/Nascar2007.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/gtPE6AiI8bg?si=A7wD1dt9ZqsIhXr5",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-243",
+    "titulo": "FIFA 2005",
+    "imagen": "../../img/portadas/fifa.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/XsZkUmObalg?si=UHrx2VXDBZUsnF_a",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-244",
+    "titulo": "Padrino",
+    "imagen": "../../img/portadas/padrino.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/n1AF13pt0sk?si=UMlrckjrzVHT-ASK",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-245",
+    "titulo": "Spec Ops Ranger Elite",
+    "imagen": "../../img/portadas/specops.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/ip179gFFysg?si=gHUPmoNDaGIhb7tH",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-246",
+    "titulo": "Piratas del Caribe",
+    "imagen": "../../img/portadas/PiratasdelCaribe.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/db3STqoeEY8?si=C67k4C01wU6O7kwg",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-247",
+    "titulo": "007 Tomorrow Never Dies",
+    "imagen": "../../img/portadas/54.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/Fi_e2OIseMs?si=TF3FxaV-MXT2fHt7",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-248",
+    "titulo": "Principe de Persia the two thrones",
+    "imagen": "../../img/portadas/prince-of-persia-the-two-thrones.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/2fMATKkJ1co?si=jgQuSoYR_wT_tkyn",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-249",
+    "titulo": "Monster Inc",
+    "imagen": "../../img/portadas/MonsterINC.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/zsFWKxzMq54?si=eq5xzEsyZA114Bv1",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-250",
+    "titulo": "Principe de Persia Arenas del Tiempo",
+    "imagen": "../../img/portadas/PrincipedePersiaST.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/UmK51OxBAwI?si=EcsXSDZfaRiwPJqH",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-251",
+    "titulo": "Tomb Raider 2",
+    "imagen": "../../img/portadas/TombRaider2.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/S0wZv-qA2wE?si=1eTE8HqittsdGi_U",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-252",
+    "titulo": "Scarface",
+    "imagen": "../../img/portadas/Scarface.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/HfMuLY3ywAU?si=ZEoTupYwKjo7SF3S",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-253",
+    "titulo": "Fear Effect 2",
+    "imagen": "../../img/portadas/FearEffect2.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/R_sLRWbvvCc?si=-PuLlTOz_gkCLwRR",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-254",
+    "titulo": "Silent Hill 3",
+    "imagen": "../../img/portadas/silenthill3.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/iprxfuI01GA?si=OjfRkIuqLfaIaeEG",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-255",
+    "titulo": "Vampire Hunter",
+    "imagen": "../../img/portadas/VampireHunter.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/Jjc54wGicpc?si=c3UC_EMx0Jx7vnHg",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-256",
+    "titulo": "Silent Hill 4",
+    "imagen": "../../img/portadas/silenthill4.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/h9F_Nb9X0ng?si=1wyyqpEEbFnWoX31",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-257",
+    "titulo": "Crash 2",
+    "imagen": "../../img/portadas/Crash2.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/lw-4DNQnsD8?si=G7g2nWRT55rHuX-D",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-258",
+    "titulo": "Spiderman 2 ps2",
+    "imagen": "../../img/portadas/spiderman2ps2.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/jr-rT9wVJ20?si=wdZWnLx4pUV2AvV8",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-259",
+    "titulo": "OddWorld",
+    "imagen": "../../img/portadas/OddWorld.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/1e6EuIik4ag?si=j4_fOAU-O8rWa2-K",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-260",
+    "titulo": "Spiderman Web Shadows",
+    "imagen": "../../img/portadas/spidermanws.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/704cXnn0NCI?si=4HZLcH51tOXjFjcu",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-261",
+    "titulo": "Superbike 2000",
+    "imagen": "../../img/portadas/Superbike2000.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/_oPqiN7Yqxc?si=m7RxUW06B0yuA5K4",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-262",
+    "titulo": "Splinter  Cell Pandora Tomorrow",
+    "imagen": "../../img/portadas/SplinterCellPT.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/UFdwyy9JMZ8?si=VqrMvUioepTGslmm",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-263",
+    "titulo": "Marvel VS Street Fighter",
+    "imagen": "../../img/portadas/MarvelVSSF.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/pnMwASnrJcM?si=ZeqR907nIJRMcybg",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-264",
+    "titulo": "Urban Chaos",
+    "imagen": "../../img/portadas/UrbanChaos.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/RhWfQXz7Yg4?si=XfijhEmTRAMeBMDp",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-265",
+    "titulo": "NASCAR Thunder 2004",
+    "imagen": "../../img/portadas/44.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/5YxOz60RTT0?si=6FUmj1Bcz103ItPr",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-266",
+    "titulo": "World Rally Championship",
+    "imagen": "../../img/portadas/wrc.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/jw_gdbZbGDY?si=L5cq5904wnK9s3tP",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-267",
+    "titulo": "Creatures 2",
+    "imagen": "../../img/portadas/Creatures2.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/WJ27XGn2NTM?si=yzD8tezj84UXjLiO",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-268",
+    "titulo": "WW II Europa",
+    "imagen": "../../img/portadas/ww2europa.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/fK_TrpCnnpg?si=mGLQtkZbjTBFo7Vf",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-269",
+    "titulo": "Street fighter Alpha 3",
+    "imagen": "../../img/portadas/streetfighterAlpha3.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/0dQF3--ooxc?si=XKupb7BuDOIui46S",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-270",
+    "titulo": "WW II Pacifico",
+    "imagen": "../../img/portadas/ww2pacifico.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/JCe1xgJUwCE?si=6XmTGfWYy2zo90mr",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-271",
+    "titulo": "Resident evil survivor",
+    "imagen": "../../img/portadas/ResidentEvilSurvivor.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/N56UMSZWPBU?si=1pH4938f-bYQr5Ws",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-272",
+    "titulo": "Need for Speed Hot Pursuit 2",
+    "imagen": "../../img/portadas/Need for Speed Hot Pursuit 2.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=XoUbmviO8gM&list=PLOcifTz3tdk14Q8fsHaj3MDavOZZ66Qhv&index=2",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-273",
+    "titulo": "Dragon Ball Z",
+    "imagen": "../../img/portadas/DragonBallZ.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/WTzYzPUq_as?si=PYTOAQdwWRjtYxff",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-274",
+    "titulo": "Bully",
+    "imagen": "../../img/portadas/Bully.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=N2Jes4toEGw&list=PLrXlEm4MgsbNQx4wD7-EeREkVuX6-Nqfd",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-275",
+    "titulo": "Medal of honor",
+    "imagen": "../../img/portadas/MedalOfHonor.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/rJBmYFxYvRI?si=DMN_MBkLFkDDPuJf",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-276",
+    "titulo": "Burnout Revenge",
+    "imagen": "../../img/portadas/Burnout Revenge.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=l156OZiw5u8",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-277",
+    "titulo": "Crash 3",
+    "imagen": "../../img/portadas/Crash3.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/3qrM8Fxsn0E?si=NIqtVXxImCWnk0P7",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-278",
+    "titulo": "Call of Duty World at War",
+    "imagen": "../../img/portadas/Call of Duty World at War.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=oV0_vwPH2Wk",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-279",
+    "titulo": "Spyro",
+    "imagen": "../../img/portadas/Spyro.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/G9DAlYCVxs4?si=e3EdHa6uIXkrlxx0",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-280",
+    "titulo": "Delta Force Black Hawk Down",
+    "imagen": "../../img/portadas/Delta Force Black Hawk Down.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=IUxzRsYBIeg&list=PLuB7mLeC2g3HMXJIDRB2VBlyET7_EfwVK&index=2",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-281",
+    "titulo": "Tony Hawk 4",
+    "imagen": "../../img/portadas/TonyHawk4.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/T3apDZQ3tNc?si=8-NA0evELu69SQij",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-282",
+    "titulo": "Delta Force Team Sabre",
+    "imagen": "../../img/portadas/Delta Force Team Sabre.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=5MfVLVXNHdY&list=PLuB7mLeC2g3GCQmUevEr3-UwbBff5qMkI&index=3",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-283",
+    "titulo": "Tony Hawk 3",
+    "imagen": "../../img/portadas/TonyHawk3.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/VOcnE-vC65U?si=76pl6mC-ACE85sAs",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-284",
+    "titulo": "Depredador",
+    "imagen": "../../img/portadas/Depredador.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=S2bN5Geq7DQ",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-285",
+    "titulo": "Tony Hawk 2",
+    "imagen": "../../img/portadas/TonyHawk2.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/FyVtYCL3CVQ?si=5dQFppGI2nHf-JvV",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-286",
+    "titulo": "Downhill Domination",
+    "imagen": "../../img/portadas/Downhill Domination.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=TjK6JHmZ2Ko",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-287",
+    "titulo": "Tony Hawk",
+    "imagen": "../../img/portadas/TonyHawk.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/H4B7JkrIB0g?si=6jpZDRDLNl7FDJ1p",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-288",
+    "titulo": "FIFA Street",
+    "imagen": "../../img/portadas/FIFA Street.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=IlRZ_q9fir0",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-289",
+    "titulo": "Tomb Raider 3",
+    "imagen": "../../img/portadas/TombRaider3.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/S2ghs2PA-Cg?si=XOyxmfP7EcGsKuxz",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-290",
+    "titulo": "FreekStyle",
+    "imagen": "../../img/portadas/FreekStyle.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=xyR2b_oMc3A",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-291",
+    "titulo": "King Of Fighters 96",
+    "imagen": "../../img/portadas/KOF96.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/30QATj00Myg?si=z_31RR8y_PvXRvol",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-292",
+    "titulo": "Guitar Hero 3",
+    "imagen": "../../img/portadas/Guitar Hero 3.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=IOCS_95jHtg",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-293",
+    "titulo": "King Of Fighters 95",
+    "imagen": "../../img/portadas/KOF95.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/Y-6Zo2AH5vQ?si=xIvQwiJp9vPta3qt",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-294",
+    "titulo": "Le Tour de France",
+    "imagen": "../../img/portadas/Le Tour de France.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=8I66NRmb5rQ",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-295",
+    "titulo": "King Of Fighters 99",
+    "imagen": "../../img/portadas/KOF99.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/N5Brtc_kwUI?si=yqmqh3Mt5g_UYhC1",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-296",
+    "titulo": "Spartan",
+    "imagen": "../../img/portadas/Spartan.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=9fZvDyqPEb8",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-297",
+    "titulo": "Parasite Eve",
+    "imagen": "../../img/portadas/parasite.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/kVuhj_o0Cbo?si=VGPYaxtkZILj-3Ij",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-298",
+    "titulo": "Top Gear RPM Tuning",
+    "imagen": "../../img/portadas/Top Gear RPM Tuning.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=9yZoFwyylxU",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
+    "id": "abrigo-299",
+    "titulo": "Capcom vs SNK",
+    "imagen": "../../img/portadas/56.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/l9qCMREV9W0?si=2t1aSZtpohYs2RFv",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-300",
+    "titulo": "Ape Escape",
+    "imagen": "../../img/portadas/Ape Escape.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=uj1HkzAOUYs",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-301",
+    "titulo": "Syphon Filter 3",
+    "imagen": "../../img/portadas/52.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/rThrwf3EEpU?si=JiqqGVte1QiTbzwL",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-302",
+    "titulo": "God of War Chains of Olympus",
+    "imagen": "../../img/portadas/God of War Chains of Olympus.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=l0ou8oP-6LE",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-303",
+    "titulo": "007 El mundo no basta",
+    "imagen": "../../img/portadas/007MundoNoBasta.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/4BU3BAb9IT4?si=PkQ9pl97lHZ4ur5V",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-304",
+    "titulo": "God of War Ghost of Sparta",
+    "imagen": "../../img/portadas/God of War Ghost of Sparta.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=Sh-dv5xygDs&list=PLGKJJhcJXlNzihF4lu7UNQBqpvMyDEMNU&index=2",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-305",
+    "titulo": "Alien",
+    "imagen": "../../img/portadas/Alien.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/TbRvM2zSDsM?si=mWwrSI163Y7dpuiI",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-306",
+    "titulo": "Super Smash Bros",
+    "imagen": "../../img/portadas/Super Smash Bros.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=pwgIVXchjiI",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-307",
+    "titulo": "Army Men Air Attack",
+    "imagen": "../../img/portadas/ArmyMenAA.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/81v0lbS5kwY?si=eZcNYOUdKOsp6Sg9",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-308",
+    "titulo": "Mario Party",
+    "imagen": "../../img/portadas/Mario Party.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=mZIX6B4YZxc",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-309",
+    "titulo": "Army Men Air Attack 2",
+    "imagen": "../../img/portadas/ArmyMenAA2.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/HKPvJBvHY9E?si=XV4klUjixP43jFT9",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-310",
+    "titulo": "Mario Party 2",
+    "imagen": "../../img/portadas/Mario Party 2.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=CChFSEuDUjY",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-311",
+    "titulo": "Army Men Lock Load",
+    "imagen": "../../img/portadas/ArmyMenLL.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/MQIMal97UEM?si=gC3buREuTNDwdnlV",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-312",
+    "titulo": "Mario Party 3",
+    "imagen": "../../img/portadas/Mario Party 3.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=5iTQCQGL_1k",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-313",
+    "titulo": "Army Men Land Sea Air",
+    "imagen": "../../img/portadas/ArmyMenLSA.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/B28oYkJrqBw?si=Wttd7C5lqjtNms-j",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-314",
+    "titulo": "Zelda Ocarina Time",
+    "imagen": "../../img/portadas/Zelda Ocarina Time.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=0Kig7puD59I&list=PLD3B73EF327C63BC9",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-315",
+    "titulo": "Army Men Operation Meltdown",
+    "imagen": "../../img/portadas/ArmyMenOM.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/x07Mswmmfz4?si=xUC_bL-f40iNvDsJ",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-316",
+    "titulo": "TOCA 2",
+    "imagen": "../../img/portadas/TOCA 2.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=ZWOJgg2Gqm4",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-317",
+    "titulo": "Army Men Omega Soldier",
+    "imagen": "../../img/portadas/ArmyMenOS.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/wnPmsyeNvO8?si=ppsNRNbcfwGlvhym",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-318",
+    "titulo": "Need for Speed 3",
+    "imagen": "../../img/portadas/Need for Speed 3.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=eesHs89P9W8",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-319",
+    "titulo": "Army Men Sarge�s Heroes",
+    "imagen": "../../img/portadas/ArmyMenSH.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/rEzmpvuWPGU?si=ysb-FNl2eXFJmHsY",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-320",
+    "titulo": "MLB 2001",
+    "imagen": "../../img/portadas/MLB 2001.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=ihFV2MOr1Rw",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-321",
+    "titulo": "Army Men Sarge�s Heroes 2",
+    "imagen": "../../img/portadas/ArmyMenSH2.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/2kn1bcwWzyU?si=yOTE9Coj3r0jxQGR",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-322",
+    "titulo": "Gomito 58 Extra Turbo",
+    "imagen": "../../img/portadas/Gomito 58 Extra Turbo.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=KTByTTUqfD4&t=375s",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-323",
+    "titulo": "Casper",
+    "imagen": "../../img/portadas/casper.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/QubQV1TC2ow?si=l1jLj4CzUUbrjd83",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-324",
+    "titulo": "Donkey Kong 64",
+    "imagen": "../../img/portadas/Donkey Kong 64.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=agg2K8K2qc0",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-325",
+    "titulo": "Crash Bash ",
+    "imagen": "../../img/portadas/CrashBash.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/9Y4no_Bc3yg?si=IIAFj4sYgBLz2il_",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-326",
+    "titulo": "Delta Force",
+    "imagen": "../../img/portadas/Delta Force.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=26ZM_8RI4UA",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-327",
+    "titulo": "Digimon 2003",
+    "imagen": "../../img/portadas/Digimon2003.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/3aFF1yR0rXE?si=jsF7JkrL7Q-QEIrK",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-328",
+    "titulo": "Cruis n World 64",
+    "imagen": "../../img/portadas/Cruis n World 64.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=y2Fw2NzMFCE",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-329",
+    "titulo": "Dino Crisis 1",
+    "imagen": "../../img/portadas/DinoCrisis1.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/gE_izuZ1rxU?si=uZf_GRgqZiDhZx4o",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-330",
+    "titulo": "Cruis n USA 64",
+    "imagen": "../../img/portadas/Cruis n USA 64.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://www.youtube.com/watch?v=PjXE2BCv32Q",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-331",
+    "titulo": "ISS 2",
+    "imagen": "../../img/portadas/ISS2.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/3N3n0T8ARjo?si=VCn2CRfjl7XgKMxl",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-332",
+    "titulo": "ISS club",
+    "imagen": "../../img/portadas/ISSclub.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/3N3n0T8ARjo?si=VCn2CRfjl7XgKMxl",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-333",
+    "titulo": "Le Mans 24 hours",
+    "imagen": "../../img/portadas/LeMans.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/Ifl8fRTGHVs?si=ME8J4BEFdFt3FYDx",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-334",
+    "titulo": "Quinto Elemento",
+    "imagen": "../../img/portadas/QuintoElemento.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/_oyrC_WcEcA?si=2qkfQI4fnYLaTcIt",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-335",
+    "titulo": "Collin Mc Crae Rally",
+    "imagen": "../../img/portadas/rallycm.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/ifIH1VMq7_w?si=6dV7OfMV8Es1A3So",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-336",
+    "titulo": "Star Wars the phantom menace",
+    "imagen": "../../img/portadas/StarWars.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/q3bx4-BfWZE?si=dA-h74Ci3z7C9SHF",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-337",
+    "titulo": "Street fighter 2",
+    "imagen": "../../img/portadas/streetfighter.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/k0zaroG_oWM?si=JK1l623EpHfUtg8U",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-338",
+    "titulo": "Syphon Filter 2",
+    "imagen": "../../img/portadas/SyphonFilter2.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/ul2xRSBN_Tk?si=HNqoaZf8Qcmxrzep",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-339",
+    "titulo": "Toy story racer",
+    "imagen": "../../img/portadas/toystoryracer.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/69yJDbatKtc?si=hmT5W5wdjZTXQ8UO",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-340",
+    "titulo": "Twisted Metal",
+    "imagen": "../../img/portadas/TwistedMetal.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/8mvL5QauQls?si=o2x2uGdmnLi_pk_R",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-341",
+    "titulo": "Twisted Metal 2",
+    "imagen": "../../img/portadas/Twistedmetal2.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/QAIsWC0ix_k?si=abX65g21xAqOSijA",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-342",
+    "titulo": "Twisted Metal 3",
+    "imagen": "../../img/portadas/TwistedMetal3.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/rbtM6R6w11s?si=Tvku-1wUpGmzU9_z",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-343",
+    "titulo": "Xmen VS Street Fighter",
+    "imagen": "../../img/portadas/XMenVSSF.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 2,
+    "trailer": "https://youtu.be/qdcSrfUSrZs?si=Otwx5DlNLJZYPSwl",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-344",
+    "titulo": "Acceso a todo el catalogo",
+    "imagen": "../../img/portadas/todos.webp",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 15,
+    "trailer": "pendiente",
+    "advertencia": "Funciona en cualquier celular"
+  }
+]

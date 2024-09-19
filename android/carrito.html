@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Carrito de compras de Videojuegos Retro. Compra y paga fácilmente tus videojuegos favoritos.">
+    <meta property="og:title" content="Videojuegos Retro">
+    <meta property="og:description"
+        content="Venta de videojuegos retro para celular y computador. Encuentra tus juegos favoritos en Videojuegos Retro.">
+    <meta property="og:image" content="https://videojuegosretro.store/img/logo.png">
+    <meta property="og:url" content="https://videojuegosretro.store">
+    <meta property="og:type" content="website">
+    <title>Videojuegos Retro - Carrito</title>
+    <link rel="icon" type="image/x-icon" href="../img/favicon.ico">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css" as="style"
+        onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    </noscript>
+    <link rel="stylesheet" href="../css/main.css">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+
+</head>
+
+<body>
+    <div class="wrapper">
+        <header class="header-mobile">
+            <img class="logo-img" src="../img/logo.webp" alt="Logo de Videojuegos Retro">
+            <h1 class="logo">Videojuegosretro</h1>
+            <button class="open-menu" id="open-menu">
+                <i class="bi bi-list" aria-label="Abrir menú"></i>
+            </button>
+        </header>
+        <aside>
+            <nav>
+                <ul>
+                    <li>
+                        <a class="boton-menu boton-volver" href="./android.html">
+                            <i class="bi bi-arrow-return-left"></i> Seguir comprando
+                        </a>
+                    </li>
+                    <li>
+                        <a class="boton-menu boton-carrito active" href="./carrito.html">
+                            <i class="bi bi-cart-fill"></i>🛒 Carrito
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+            <footer>
+                <p class="texto-footer">© 2023 Videojuegos</p>
+            </footer>
+        </aside>
+        <main>
+            <h2 class="titulo-principal">Carrito de compras</h2>
+            <div class="contenedor-carrito">
+                <p id="carrito-vacio" class="carrito-vacio">Tu 🛒 está vacío. <i
+                        class="bi bi-emoji-frown"></i></p>
+
+                <div id="carrito-productos" class="carrito-productos disabled">
+                    <!-- Esto se va a completar con el JS -->
+                </div>
+
+                <div id="carrito-acciones" class="carrito-acciones disabled">
+                    <div class="carrito-acciones-derecha">
+                        <div class="carrito-acciones-total">                            
+                            <p id="descuento"></p> <!-- Aquí se mostrará el valor del descuento -->
+                            <h4>Total:</h4>                            
+                            <h3 id="total">$0</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <section class="payment-method">
+                    <h2 class="titulo-principal">💵 Selecciona tu método de pago 💳</h2>
+                    
+                    <!-- Menú desplegable para seleccionar el método de pago -->
+                    <select id="metodo-pago" class="metodo-pago">
+                        <option value="" selected disabled>Elige una opción</option>
+                        <option value="nequi">Nequi</option>
+                        <option value="daviplata">Daviplata</option>
+                        <option value="dale">Dale</option>
+                        <option value="transfiya">Transfiya</option>
+                        <option value="pse">PSE</option>
+                        <option value="bancolombia">Bancolombia</option>
+                    </select>
+                
+                    <button onclick="mostrarMetodoPago()" class="copiar">💵 Pagar 💵</button>
+                </section>
+
+                <section class="comprobante">
+                    <a id="whatsapp-link" href="#" onclick="actualizarMensaje(event)" rel="noopener noreferrer" target="_blank">
+                    <h2 class="titulo-principal" id="numero-telefono">Envíanos el comprobante de pago por WhatsApp, utiliza el siguiente botón:</h2>                                      
+                        <img src="../img/whatsapp.webp" alt="WhatsApp" style="height: 100px; width: auto;">
+                    </a>
+                    <h3 class="titulo-principal" id="numero-telefono">Después de enviar el comprobante, recibiras el enlace para descargar el juego y haremos videollamada compartiendo pantalla para guiarte en la instalación y configuración del juego en tu celular.</h3>
+                </section>
+
+                <p id="carrito-comprado" class="carrito-comprado disabled">Muchas gracias por tu compra. <i
+                        class="bi bi-emoji-laughing"></i></p>
+            </div>
+        </main>
+        <a href="./android.html" class="boton-flotante">Volver al catálogo</a>
+    </div>
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="./js/carritoandroid.js"></script>
+    <script src="../js/menu.js"></script>
+</body>
+
+</html>
