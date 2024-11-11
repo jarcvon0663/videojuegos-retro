@@ -48,16 +48,16 @@
     "advertencia": "Funciona en cualquier celular"
   },
   {
-    "id": "abrigo-104",
-    "titulo": "Grand Theft Auto 3",
-    "imagen": "../img/portadas/gta3.webp",
+    "id": "abrigo-344",
+    "titulo": "Acceso a todo el catalogo",
+    "imagen": "../img/portadas/todos.webp",
     "categoria": {
-      "nombre": "Altos requisitos",
-      "id": "PCalta"
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    "precio": 7000,
-    "trailer": "https://youtu.be/9WhZWySjgfc?si=1EYeI38NeyQjzWx5",
-    "advertencia": "Requiere 6 o mas GB de RAM"
+    "precio": 30000,
+    "trailer": "pendiente",
+    "advertencia": "Funciona en cualquier celular"
   },
   {
     "id": "abrigo-105",
@@ -2926,6 +2926,18 @@
     "precio": 7000,
     "trailer": "https://youtu.be/qdcSrfUSrZs?si=Otwx5DlNLJZYPSwl",
     "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "abrigo-104",
+    "titulo": "Grand Theft Auto 3",
+    "imagen": "../img/portadas/gta3.webp",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/9WhZWySjgfc?si=1EYeI38NeyQjzWx5",
+    "advertencia": "Requiere 6 o mas GB de RAM"
   },
   {
     "id": "abrigo-344",
