@@ -239,7 +239,7 @@ function actualizarTotal() {
 
     // Si se agregan 5 juegos, se aplica el descuento especial
     if (productosEnCarrito.length === 7) {
-        totalCalculado = 30000; // Descuento para todos los juegos: total $50000
+        totalCalculado = 50000; // Descuento para todos los juegos: total $50000
     } else {
         // Aplicar descuento al total calculado si hay descuento
         totalCalculado -= descuento;
