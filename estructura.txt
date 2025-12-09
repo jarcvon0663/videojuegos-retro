@@ -1,0 +1,367 @@
+Listado de rutas de carpetas
+El n£mero de serie del volumen es 745F-51C4
+C:.
+³   CNAME
+³   estructura.txt
+³   index.html
+³   manifest.json
+³   
+ÃÄÄÄandroid
+³   ³   android.html
+³   ³   carrito.html
+³   ³   
+³   ÀÄÄÄjs
+³           carritoandroid.js
+³           productos.json
+³           
+ÃÄÄÄcss
+³       main.css
+³       
+ÃÄÄÄextranjero
+³   ³   extranjero.html
+³   ³   
+³   ÃÄÄÄandroidx
+³   ³   ³   androidx.html
+³   ³   ³   carritox.html
+³   ³   ³   
+³   ³   ÀÄÄÄjs
+³   ³           carritoandroidx.js
+³   ³           productos.json
+³   ³           
+³   ÀÄÄÄpcx
+³       ³   carritopcx.html
+³       ³   pcx.html
+³       ³   
+³       ÀÄÄÄjs
+³               carritopcx.js
+³               productos.json
+³               
+ÃÄÄÄimg
+³   ³   bancolombia.webp
+³   ³   binance.webp
+³   ³   catalogo.webp
+³   ³   celular.webp
+³   ³   Colombia.png
+³   ³   dale.webp
+³   ³   daviplata.webp
+³   ³   favicon.ico
+³   ³   hand-icon.webp
+³   ³   logo.webp
+³   ³   nequi.webp
+³   ³   pagar.webp
+³   ³   paypal.webp
+³   ³   pc.webp
+³   ³   pse.webp
+³   ³   transfiya.webp
+³   ³   whatsapp.webp
+³   ³   whatsapp2.webp
+³   ³   whatsapp3.webp
+³   ³   
+³   ÀÄÄÄportadas
+³           007MundoNoBasta.webp
+³           01.webp
+³           02.webp
+³           03.webp
+³           032.webp
+³           04.webp
+³           05.webp
+³           06.webp
+³           07.webp
+³           08.webp
+³           09.webp
+³           10.webp
+³           11.webp
+³           112.webp
+³           12.webp
+³           132.webp
+³           14.webp
+³           15.webp
+³           16.webp
+³           17.webp
+³           18-wheeler-american-pro-trucker.webp
+³           18.webp
+³           187-ride-or-ride.webp
+³           20.webp
+³           21.webp
+³           23.webp
+³           24.webp
+³           26.webp
+³           32.webp
+³           40.webp
+³           41.webp
+³           42.webp
+³           43.webp
+³           44.webp
+³           45.webp
+³           46.webp
+³           47.webp
+³           48.webp
+³           49.webp
+³           50.webp
+³           51.webp
+³           52.webp
+³           53.webp
+³           54.webp
+³           55.webp
+³           56.webp
+³           57.webp
+³           58.webp
+³           59.webp
+³           60.webp
+³           ace-combat-5.webp
+³           AceCombat3.webp
+³           airborne-troops-countdown-to-d-day.webp
+³           Alien.webp
+³           AloneInTheDark.webp
+³           aoe3.webp
+³           aom.webp
+³           Ape Escape.webp
+³           ArmyMen3D.webp
+³           ArmyMenAA.webp
+³           ArmyMenAA2.webp
+³           ArmyMenLL.webp
+³           ArmyMenLSA.webp
+³           ArmyMenOM.webp
+³           ArmyMenOS.webp
+³           ArmyMenSH.webp
+³           ArmyMenSH2.webp
+³           ArmyMenTA.webp
+³           assassinscreed.webp
+³           assassinscreed2.webp
+³           assassinscreed3.webp
+³           assassinscreedrogue.webp
+³           bad-boys-miami-takedown.webp
+³           batman-begins.webp
+³           bikes.webp
+³           black.webp
+³           blade2.webp
+³           BloodyRoar2.webp
+³           BMX.webp
+³           Bully.webp
+³           Burnout Revenge.webp
+³           burnout-2-point-of-impact.webp
+³           burnout-3-takedown.webp
+³           burnout-ps2.webp
+³           Call of Duty World at War.webp
+³           call-of-duty-3.webp
+³           cars.webp
+³           cart.webp
+³           casper.webp
+³           ColdFear.webp
+³           conflict vietnam.webp
+³           conflictvietnam.webp
+³           constantine.webp
+³           coyote.webp
+³           Crash2.webp
+³           Crash3.webp
+³           CrashBash.webp
+³           crazy-taxi.webp
+³           Creatures2.webp
+³           Cruis n USA 64.webp
+³           Cruis n World 64.webp
+³           darkwatch.webp
+³           dbz.webp
+³           Delta Force Black Hawk Down.webp
+³           Delta Force Team Sabre.webp
+³           Delta Force.webp
+³           Depredador.webp
+³           DestructionDerby.webp
+³           Diablo.webp
+³           Digimon.webp
+³           Digimon2003.webp
+³           DinoCrisis1.webp
+³           dinocrisis2.webp
+³           DJFNY.webp
+³           Donkey Kong 64.webp
+³           Downhill Domination.webp
+³           dragon-ball-z-budokai-tenkaichi-2.webp
+³           dragon-ball-z-budokai-tenkaichi.webp
+³           DragonBallGT.webp
+³           DragonBallZ.webp
+³           driv3r.webp
+³           driver-parallel-lines.webp
+³           DukeNuke.webp
+³           EagleOne.webp
+³           fable.webp
+³           FearEffect2.webp
+³           FIFA Street.webp
+³           fifa.webp
+³           Fifa14.webp
+³           Formula12001.webp
+³           freedomfighters.webp
+³           FreekStyle.webp
+³           GhostReconAW.webp
+³           God of War Chains of Olympus.webp
+³           God of War Ghost of Sparta.webp
+³           goldeneye.webp
+³           Gomito 58 Extra Turbo.webp
+³           gow1.webp
+³           gow2.webp
+³           gran-turismo-3-a-spec.webp
+³           GT.webp
+³           GT2.webp
+³           gt4.webp
+³           gta3.webp
+³           gtalcs.webp
+³           gtasa.webp
+³           gtavc.webp
+³           gtavcs.webp
+³           Guitar Hero 3.webp
+³           guitar-hero-metallica.webp
+³           guitar-hero-world-tour.webp
+³           halo.webp
+³           harry-potter-y-la-orden-del-fenix.webp
+³           Hercules.webp
+³           hitman-contracts.webp
+³           Hitman2SA.webp
+³           indiana-jones-and-the-emperors-tomb.webp
+³           ISS2.webp
+³           ISSclub.webp
+³           Jedi.webp
+³           kof2002.webp
+³           KOF95.webp
+³           KOF96.webp
+³           KOF97.webp
+³           KOF99.webp
+³           Le Tour de France.webp
+³           LeMans.webp
+³           lord-of-the-rings-the-return-of-the-king.webp
+³           los-increibles.webp
+³           LosSimsonpPelea.webp
+³           mafia.webp
+³           mario kart.webp
+³           Mario Party 2.webp
+³           Mario Party 3.webp
+³           Mario Party.webp
+³           mario64.webp
+³           Marranos.webp
+³           MarvelVSSF.webp
+³           max-payne-2.webp
+³           medal-of-honor-european-assault.webp
+³           medal-of-honor-frontline.webp
+³           medal-of-honor-rising-sun.webp
+³           medal-of-honor-vanguard.webp
+³           MedalOfHonor.webp
+³           metal-gear-solid-2-sons-of-liberty.webp
+³           MetalGear.webp
+³           MidnightClub3.webp
+³           MisionImposible.webp
+³           MLB 2001.webp
+³           MonsterINC.webp
+³           MortalKombat4.webp
+³           mortalkombatdeception.webp
+³           naruto.webp
+³           Nascar2007.webp
+³           NascarRumble.webp
+³           Need for Speed 3.webp
+³           Need for Speed Hot Pursuit 2.webp
+³           nfsc.webp
+³           nfscarbon.webp
+³           nfshs.webp
+³           nfsmw.webp
+³           nfsprostreet.webp
+³           nfsu.webp
+³           nfsu2.webp
+³           nfsundercover.webp
+³           OddWorld.webp
+³           padrino.webp
+³           parasite.webp
+³           parasite2.webp
+³           ParasiteEve2.webp
+³           PES2002.webp
+³           PES2014.webp
+³           PiratasdelCaribe.webp
+³           pokemon.webp
+³           pokemonstadium.webp
+³           PoliceChases.webp
+³           prince-of-persia-the-two-thrones.webp
+³           PrincipedePersiaST.webp
+³           pro98.webp
+³           QuintoElemento.webp
+³           rallycm.webp
+³           Rayman.webp
+³           Rayman2.webp
+³           residentevil4.webp
+³           ResidentEvilDC.webp
+³           ResidentEvilSurvivor.webp
+³           return.webp
+³           Samurai.webp
+³           Scarface.webp
+³           Silent Hill 2.webp
+³           silenthill2.webp
+³           silenthill3.webp
+³           silenthill4.webp
+³           SimpsonsHR.webp
+³           sims.webp
+³           sims2.webp
+³           sims3.webp
+³           sims4.webp
+³           soulreaver.webp
+³           Spartan.webp
+³           specops.webp
+³           specopsca.webp
+³           spiderman2.webp
+³           spiderman2ps2.webp
+³           spidermanultimate.webp
+³           spidermanws.webp
+³           SplinterCellPT.webp
+³           Spyro.webp
+³           Spyro2.webp
+³           StarWars.webp
+³           streetfighter.webp
+³           streetfighterAlpha3.webp
+³           Super Smash Bros.webp
+³           Superbike2000.webp
+³           SyphonFilter2.webp
+³           Tarzan.webp
+³           Tekken3.webp
+³           Tekken5.webp
+³           TestDrive6.webp
+³           TOCA 2.webp
+³           TOCA.webp
+³           todos.webp
+³           TombRaider2.webp
+³           TombRaider3.webp
+³           TonyHawk.webp
+³           TonyHawk2.webp
+³           TonyHawk3.webp
+³           TonyHawk4.webp
+³           Top Gear RPM Tuning.webp
+³           toystory.webp
+³           ToyStory2.webp
+³           toystoryracer.webp
+³           TrueCrimeLA.webp
+³           TrueCrimeNY.webp
+³           TwistedMetal.webp
+³           Twistedmetal2.webp
+³           TwistedMetal3.webp
+³           TwistedMetal4.webp
+³           UrbanChaos.webp
+³           VampireHunter.webp
+³           Vigilante8.webp
+³           Vigilante82.webp
+³           vrally2.webp
+³           WinningEleven2002.webp
+³           wrc.webp
+³           ww2europa.webp
+³           ww2pacifico.webp
+³           XMenVSSF.webp
+³           yugioh.webp
+³           Zelda Ocarina Time.webp
+³           
+ÃÄÄÄjs
+³       carrito.js
+³       main.js
+³       menu.js
+³       
+ÀÄÄÄpc
+    ³   carritopc.html
+    ³   pc.html
+    ³   
+    ÃÄÄÄcss
+    ³       main.css
+    ³       
+    ÀÄÄÄjs
+            carritopc.js
+            productos.json
+            

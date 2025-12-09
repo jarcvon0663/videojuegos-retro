@@ -12,10 +12,9 @@
     <meta property="og:title" content="Videojuegos Retro">
     <meta property="og:description"
         content="Venta de videojuegos retro para celular y computador. Encuentra tus juegos favoritos en Videojuegos Retro.">
-    <meta property="og:image" content="https://videojuegosretro.pro/img/catalogo.webp">
-    <meta property="og:url" content="https://videojuegosretro.pro">
+    <meta property="og:image" content="https://videojuegosretro.store/img/catalogo.webp">
+    <meta property="og:url" content="https://videojuegosretro.store">
     <meta property="og:type" content="website">
-
 
     <title>Videojuegos Retro</title>
 
@@ -34,7 +33,7 @@
 <body>
     <div class="wrapper">
         <header class="header-mobile">
-            <img class="logo-img" src="./img/logo.webp" alt="Logo de Videojuegos Retro">
+            <img class="logo-img" src="./img/logo.webp" alt="Logo de Videojuegos Retro" loading="lazy">
             <h1 class="logo">Videojuegosretro</h1>
             <button class="open-menu" id="open-menu">
                 <i class="bi bi-list"></i>
@@ -46,7 +45,8 @@
             </button>
             <header>
                 <h2 class="logo">Videojuegos</h2>
-                <img style="height: 100px; width: 100px;" src="./img/logo.webp" alt="Logo de Videojuegos Retro">
+                <img style="height: 100px; width: 100px;" src="./img/logo.webp" alt="Logo de Videojuegos Retro"
+                    loading="lazy">
                 <h2 class="logo">Retro</h2>
             </header>
             <nav>
@@ -70,14 +70,14 @@
                 <div class="producto-inicio">
                     <a href="./android/android.html">
                         <h3>Juegos para <span>📱</span></h3>
-                        <img src="./img/celular.webp" alt="Juegos para celulares">
+                        <img src="./img/celular.webp" alt="Juegos para celulares" loading="lazy">
                         <button onclick="location.href='./android/android.html'">Ver juegos</button>
                     </a>
                 </div>
                 <div class="producto-inicio">
                     <a href="./pc/pc.html">
                         <h3>Juegos para <span>🖥️</span></h3>
-                        <img src="./img/pc.webp" alt="Juegos para computador">
+                        <img src="./img/pc.webp" alt="Juegos para computador" loading="lazy">
                         <button onclick="location.href='./pc/pc.html'">Ver juegos</button>
                     </a>
                 </div>
@@ -123,20 +123,20 @@
             <p>Celular o Computador</p>
             <br>
             <br>
-            <p>⏳ Cargando +300 juegos⏳</p>
+            <p>⏳ Cargando sitio web con +300 juegos⏳</p>
             <p>Por favor espera 15 segundos</p>
         </div>
     </div>
     <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            setTimeout(function() {
+        document.addEventListener('DOMContentLoaded', function () {
+            setTimeout(function () {
                 document.getElementById('intro-overlay').style.display = 'none';
-            }, 1000); // 1000 ms = 1 segundo
+            }, 2000); // 2 segundos
         });
     </script>
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js" async></script>
     <script src="./js/menu.js" defer></script>
-    
+
 </body>
 
 </html>

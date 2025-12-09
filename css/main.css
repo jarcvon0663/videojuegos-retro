@@ -661,6 +661,26 @@ iframe {
     margin: 0;
 }
 
+footer .search-bar p {
+    display: flex; /* Usamos flexbox para distribuir las banderas */
+    flex-wrap: wrap; /* Permite que las banderas se acomoden en varias líneas si es necesario */
+    justify-content: center;/* Centra las banderas */
+    gap: 10px; /* Espacio entre las banderas */
+    padding: 10px 0; /* Espaciado superior e inferior para dar margen */
+}
+
+.flag-icon {
+    width: 60px; /* Aumenta el tamaño de las banderas */
+    height: 50px; /* Mantén la proporción con el mismo tamaño en alto */
+    display: inline-block; /* Asegura que cada bandera se vea como un bloque */
+    transition: transform 0.3s ease; /* Efecto de transición al hacer hover */
+}
+
+/* Agrandar y animar las banderas al pasar el mouse */
+.flag-icon:hover {
+    transform: scale(1.2); /* Aumenta al 120% del tamaño */
+}
+
 
 /*** MEDIA QUERIES ***/
 

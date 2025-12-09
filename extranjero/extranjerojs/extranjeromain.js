@@ -4,33 +4,94 @@ fetch("./js/productos.json")
   .then((response) => response.json())
   .then((data) => {
     productos = data;
-    cargarProductos(productos);
+    obtenerMonedaLocal();  // Llamada para obtener la moneda local
   })
   .catch((error) => console.error("Error al cargar los productos:", error));
 
 const contenedorProductos = document.querySelector("#contenedor-productos");
-const botonesCategorias = document.querySelectorAll(".boton-categoria");
-const tituloPrincipal = document.querySelector("#titulo-principal");
-let botonesAgregar;
 const numerito = document.querySelector("#numerito");
 const numeritoFlotante = document.querySelector("#numerito-flotante");
 
-botonesCategorias.forEach((boton) =>
-  boton.addEventListener("click", () => {
-    aside.classList.remove("aside-visible");
-  })
-);
+let tasaCambio = null; // Variable para almacenar la tasa de cambio
+let monedaLocal = "COP"; // Valor predeterminado en caso de no poder obtener la moneda
 
+// Función para obtener la moneda local del usuario basado en su IP
+function obtenerMonedaLocal() {
+  // Usamos una API pública de geolocalización
+  fetch('https://ipinfo.io/json?token=c51ec3e0269f24')
+    .then((response) => response.json())
+    .then((data) => {
+      const pais = data.country_name;  // El nombre del país
+      monedaLocal = obtenerMonedaSegunPais(pais);  // Determinamos la moneda local según el país
+
+      obtenerTasaCambio();  // Ahora obtenemos la tasa de cambio una vez tengamos la moneda local
+    })
+    .catch((error) => {
+      console.error("Error al obtener la ubicación del usuario:", error);
+      obtenerTasaCambio();  // En caso de error, usamos el valor predeterminado
+    });
+
+    // Mostrar la moneda y el símbolo en el HTML
+    const simbolo = obtenerSimboloMoneda(monedaLocal);
+    document.querySelector("#moneda").textContent = `El precio está en ${simbolo}${monedaLocal}`;
+}
+
+// Función para obtener la tasa de cambio para convertir los precios
+function obtenerTasaCambio() {
+  fetch(`https://api.exchangerate-api.com/v4/latest/USD`)
+    .then((response) => response.json())
+    .then((data) => {
+      tasaCambio = data.rates[monedaLocal]; // Establece la tasa de cambio de USD a la moneda local
+      cargarProductos(productos); // Después de obtener la tasa de cambio, carga los productos
+    })
+    .catch((error) => console.error("Error al obtener la tasa de cambio:", error));
+}
+
+
+function obtenerMonedaSegunPais(pais) {
+  const monedas = {
+    "Argentina": "ARS", // Argentina
+    "Bolivia": "BOB",   // Bolivia
+    "Chile": "CLP",     // Chile
+    "Colombia": "COP",  // Colombia
+    "Costa Rica": "CRC", // Costa Rica
+    "Cuba": "CUP",      // Cuba (Peso cubano)
+    "República Dominicana": "DOP", // República Dominicana (Peso dominicano)
+    "Ecuador": "USD",   // Ecuador (USA Dollar)
+    "El Salvador": "SVC", // El Salvador (Colón)
+    "Guatemala": "GTQ", // Guatemala (Quetzal)
+    "Honduras": "HNL",  // Honduras (Lempira)
+    "México": "MXN",    // México (Peso mexicano)
+    "Nicaragua": "NIO", // Nicaragua (Córdoba)
+    "Panamá": "PAB",    // Panamá (Balboa)
+    "Paraguay": "PYG",  // Paraguay (Guaraní)
+    "Perú": "PEN",      // Perú (Sol peruano)
+    "Puerto Rico": "USD", // Puerto Rico (USA Dollar)
+    "República Dominicana": "DOP", // República Dominicana (Peso dominicano)
+    "Uruguay": "UYU",   // Uruguay (Peso uruguayo)
+    "Venezuela": "VES", // Venezuela (Bolívar Soberano)
+    "España": "EUR",    // España (Euro)
+    // Agregar más países según sea necesario...
+  };
+
+  return monedas[pais] || "COP"; // Si el país no está en la lista, usamos COP como moneda predeterminada
+}
+
+// Función para cargar los productos
 function cargarProductos(productosElegidos) {
   contenedorProductos.innerHTML = "";
   productosElegidos.forEach((producto) => {
+    // Convertir el precio de los productos de USD a la moneda local
+    const precioEnMonedaLocal = producto.precio * tasaCambio * 1.1;
+
+    // Crear el HTML del producto
     const div = document.createElement("div");
     div.classList.add("producto");
     div.innerHTML = `
             <img class="producto-imagen" src="${producto.imagen}" alt="${producto.titulo}">
             <div class="producto-detalles">
                 <h3 class="producto-titulo">${producto.titulo}</h3>
-                <p class="producto-precio">Precio $${producto.precio.toLocaleString('es-CO')}</p>
+                <p class="producto-precio">Precio ${obtenerSimboloMoneda(monedaLocal)}${Math.floor(precioEnMonedaLocal).toLocaleString('es-CO')}</p>
                 <a class="producto-trailer" href="${producto.trailer}" target="_blank">
                 <p class="video-trailer">
                 <span class="emoji">🎬</span>Vídeo
@@ -44,17 +105,33 @@ function cargarProductos(productosElegidos) {
   });
 
   actualizarBotonesAgregar();
+}
 
-  const trailerLinks = document.querySelectorAll(".producto-trailer");
-  trailerLinks.forEach((link) => {
-    link.addEventListener("click", function (event) {
-      event.preventDefault();
-      mostrarTrailer(this.href);
-    });
-  });
+// Función para obtener el símbolo de la moneda basado en la moneda local
+function obtenerSimboloMoneda(currency) {
+  const simbolos = {
+    USD: "$",  // Dólar estadounidense
+    MXN: "$",  // Peso mexicano
+    COP: "$",  // Peso colombiano
+    ARS: "$",  // Peso argentino
+    CLP: "$",  // Peso chileno
+    PEN: "S/", // Sol peruano
+    BOB: "Bs", // Boliviano (Bolivia)
+    SVC: "$",  // Colón salvadoreño
+    GTQ: "Q",  // Quetzal (Guatemala)
+    HNL: "L",  // Lempira (Honduras)
+    NIO: "C$", // Córdoba (Nicaragua)
+    PAB: "B/.", // Balboa (Panamá)
+    CUC: "$",  // Peso cubano convertible (Cuba)
+    CUP: "$",  // Peso cubano (Cuba)
+    BOB: "Bs", // Boliviano (Bolivia)
+    MZN: "MT", // Metical (Guinea Ecuatorial)
+    CORDOBA: "C$", // Córdoba (Nicaragua)
+    DOP: "RD$", // Peso dominicano (República Dominicana)
+    VEF: "Bs",  // Bolívar (Venezuela) 
+  };
 
-  const popupClose = document.querySelector(".popup-close");
-  popupClose.addEventListener("click", cerrarTrailer);
+  return simbolos[currency] || "$"; // Devuelve el símbolo correspondiente o "$" si no se encuentra
 }
 
 function mostrarTrailer(url) {
@@ -87,7 +164,6 @@ window.addEventListener("click", function (event) {
   }
 });
 
-
 function actualizarBotonesAgregar() {
   botonesAgregar = document.querySelectorAll(".producto-agregar");
   botonesAgregar.forEach((boton) =>
@@ -113,9 +189,15 @@ function agregarAlCarrito(e) {
   // Crear el contenido HTML para la notificación
   const contenido = `
         <div style="display: flex; align-items: center; padding: 5px; width: 100vw; max-width: 300px; margin: 10px auto;">
-        <img src="${productoAgregado.imagen}" alt="Imagen del juego" style="width: 70px; height: 70px; margin-right: 5px;" />
+        <img src="${
+          productoAgregado.imagen
+        }" alt="Imagen del juego" style="width: 70px; height: 70px; margin-right: 5px;" />
         <div style="flex: 1;">
-            <p style="margin: 0; font-size: 14px; color: #ffffff;">${productoAgregado.titulo} ${productoExistente ? "ya está en el carrito" : "se agregó al carrito"}</p>
+            <p style="margin: 0; font-size: 14px; color: #ffffff;">${
+              productoAgregado.titulo
+            } ${
+    productoExistente ? "ya está en el carrito" : "se agregó al carrito"
+  }</p>
             <div style="margin-top: 10px;">
                 <button id="btnHacerPago" style="background-color: #00641e; color: white; padding: 8px 12px; border: none; border-radius: 5px; cursor: pointer; margin-right: 5px;">Pagar</button>
                 <button id="btnSeguirEscogiendo" style="background-color: #ff0000; color: white; padding: 8px 12px; border: none; border-radius: 5px; cursor: pointer;">Añadir +</button>
@@ -178,14 +260,6 @@ function agregarAlCarrito(e) {
   }
 
   actualizarNumerito(); // Actualizar el numerito del carrito
-}
-
-function agitarBotonPago() {
-  const botonPago = document.querySelector(".boton-flotante");
-  botonPago.classList.add("agitar");
-  setTimeout(() => {
-    botonPago.classList.remove("agitar");
-  }, 500); // Ajustar el tiempo según sea necesario
 }
 
 // Función de animación de agregar al carrito

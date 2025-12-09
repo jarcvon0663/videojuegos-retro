@@ -52,7 +52,7 @@ function cargarProductosCarrito() {
             } else if (productosEnCarrito.length === 7 && index === 6) {
                 mensajeDescuento = "¡Agrega 1 juego más y obtén un descuento especial!";
             } else if (productosEnCarrito.length === 8 && index === 7) {
-                mensajeDescuento = "¡Por una compra de $50.000 obtienes acceso a todo el catálogo!";
+                mensajeDescuento = "¡Por una compra de $80.000 obtienes acceso a todo el catálogo!";
             }            
 
             // Mostrar el mensaje de descuento si existe
@@ -157,12 +157,12 @@ function actualizarTotal() {
     if (productosEnCarrito.length >= 4 && productosEnCarrito.length < 8) {
         descuento = 3000; // Descuento para 4 juegos: se descuentan $3000
     } else if (productosEnCarrito.length >= 8) {
-        totalCalculado = 50000; // Descuento para todos los juegos: total $50000
+        totalCalculado = 80000; // Descuento para todos los juegos: total $80000
     }
 
     // Si se agregan 8 juegos, se aplica el descuento especial
     if (productosEnCarrito.length === 8) {
-        totalCalculado = 50000; // Descuento para todos los juegos: total $50000
+        totalCalculado = 80000; // Descuento para todos los juegos: total $80000
     } else {
         // Aplicar descuento al total calculado si hay descuento
         totalCalculado -= descuento;
